@@ -1,17 +1,9 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #2
- * CSE 214 Recitation 30
- */
-
 package departmentStoreSimulator;
 
 /**
  * This class contains the methods to create and use an ItemInfoNode
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  *
  */
 public class ItemInfoNode {
