@@ -1,18 +1,10 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #2
- * CSE 214 Recitation 30
- */
-
 package departmentStoreSimulator;
 import java.lang.Math;
 
 /**
  * Creates and uses methods to handle items and their information
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  *
  */
 public class ItemInfo {
