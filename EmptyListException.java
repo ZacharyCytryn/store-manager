@@ -1,17 +1,9 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #2
- * CSE 214 Recitation 30
- */
-
 package departmentStoreSimulator;
 
 /**
  * EmptyListException for when a list is empty
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  *
  */
 public class EmptyListException extends Exception {
